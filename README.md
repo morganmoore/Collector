@@ -1,3 +1,3 @@
 # Collector
-Simple C++ Collector Game in Unreal Engine, Test1
-Test1
+Simple C++ Collector Game in Unreal Engine
+
